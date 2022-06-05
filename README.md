@@ -19,7 +19,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I am an experienced programmer. I love solving real life problems and strive to make the world a better place. 
 
 - 📫 How to reach me **www.niharjyotibasisth2000@gmail.com@gmail.com**
 
