@@ -21,7 +21,7 @@
 
 - 🌱 I am an experienced programmer. I love solving real life problems and strive to make the world a better place. 
 
-- 📫 How to reach me **www.niharjyotibasisth2000@gmail.com@gmail.com**
+- 📫 How to reach me **www.niharjyotibasisth2000@gmail.com**
 
 - ⚡ Fun fact :- I love backlit keyboards and Ivory Keys, I am a pureblood ;-) 
 
