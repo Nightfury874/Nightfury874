@@ -19,9 +19,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I am an experienced programmer. I love solving real life problems and strive to make the world a better place. 
+- 🌱 I am an experienced programmer. I love solving real-life problems and strive to make the world a better place. 
 
-- 📫 How to reach me **www.niharjyotibasisth2000@gmail.com**
+- 📫 How to reach me **niharjyotibasisth@gmail.com**
 
 - ⚡ Fun fact :- I love backlit keyboards and Ivory Keys, I am a pureblood ;-) 
 
@@ -89,7 +89,14 @@
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
+      <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40" />
+</a>
 
+<!-- Java Logo -->
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+</a>
 <br>
 
 <h3>Statistical Data :-</h3>
