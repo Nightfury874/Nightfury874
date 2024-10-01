@@ -9,7 +9,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nihar Jyoti Basisth</h1>
-<h3 align="center">SDE at Jubilant Foodworks & Building AgriJod🌟.</h3>
+<h3 align="center">Building AgriJod🌟| Ex-SDE at Jubilant Foodworks .</h3>
 
 <br>
 
