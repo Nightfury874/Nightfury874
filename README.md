@@ -18,6 +18,7 @@
 - 🌱 I am an experienced programmer passionate about solving real-life problems and striving to make the world a better place.
 - 💻 CTO a failed startup. Raised seed fund, scaled to $200k GMV. Closed due to operational and financial issues. 
 - 🚀 Built **AgriJod** to revolutionize the agricultural sector.
+- 🌟 Now building NexGen SME tools for India
 - 📫 How to reach me: **niharjyotibasisth@gmail.com**
 - ⚡ Fun fact: I love backlit keyboards and Ivory Keys, I am a pureblood ;-)
 
