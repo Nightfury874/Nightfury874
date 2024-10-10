@@ -5,7 +5,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/Nightfury874.svg?style=social&label=Followers)](https://github.com/Nightfury874?tab=followers)
 
 <h1 align="center">Hi 👋, I'm Nihar Jyoti Basisth</h1>
-<h3 align="center">Building AgriJod🌟 | Ex-SDE at Jubilant Foodworks</h3>
+<h3 align="center">Building NexGen SME tools🌟 | Ex-SDE at Jubilant Foodworks</h3>
 
 <br>
 
