@@ -105,7 +105,7 @@ A hub for my experimental developments and innovative projects. Explore a variet
 I develop various extensions to enhance your productivity and browsing experience; no logins, no signups, no data collection, do whatever tf you want to do. Check out my latest extensions below:
 
 - **VSCode Extensions**
-  - [Code line badge using CLOC](https://marketplace.visualstudio.com/items?itemName=your-vscode-extension)
+  - [Code line badge using CLOC]([https://marketplace.visualstudio.com/items?itemName=your-vscode-extension](https://github.com/marketplace/actions/generate-cloc-badge))
   - Pandas (Coming soon...)
 
 - **Browser Extensions**
