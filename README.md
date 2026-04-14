@@ -5,7 +5,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/Nightfury874.svg?style=social&label=Followers)](https://github.com/Nightfury874?tab=followers)
 
 <h1 align="center">Hi 👋, I'm Nihar Jyoti Basisth</h1>
-<h3 align="center">Building NexGen SME tools🌟 | Ex-SDE at Jubilant Foodworks</h3>
+<h3 align="center"> Product Manager | Building EzHomeo | Ex-SDE at Jubilant Foodworks</h3>
 
 <br>
 
@@ -15,10 +15,10 @@
 
 <br>
 
-- 🌱 I am an experienced programmer passionate about solving real-life problems and striving to make the world a better place.
-- 💻 CTO of a failed startup. Raised seed fund, scaled to $200k GMV. Closed due to operational and financial issues. 
+- 🌱 I am an experienced product manager, an ex SDE, passionate about solving real-life problems and striving to make the world a better place.
+- 💻 CTO of a failed startup. Raised seed fund, scaled to $200k GMV. Acquired in 2025. 
 - 🚀 Built **AgriJod** to revolutionize the agricultural sector.
-- 🌟 Now building NexGen SME tools for India
+- 🌟 Now building EzHomeo
 - 📫 How to reach me: **niharjyotibasisth@gmail.com**
 - ⚡ Fun fact: I love backlit keyboards and Ivory Keys, I am a pureblood ;-)
 
